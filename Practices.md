@@ -48,24 +48,27 @@ we learned how to use the event handler to complete an action when the button is
 In this pratice we learned how to create an App with 2 activities and pass data from the first activity to the second activity 
 
  <img src="/Pictures/Activities and intents 3.jpg"
-     alt="Hello toast App"
+     alt=""
      style="float: left; margin-right: 10px;" />
 
      when the user clicks the send button in the first activity it will open the second activity with the text: "message recieved"  and the message displayed.
 
 <img src="/Pictures/Activities and intents 4.jpg"
-     alt="Hello toast App"
+     alt=""
      style="float: left; margin-right: 10px;" />
+
+    Aditionally we learned how to pass a massage from Activity one 
 
 <img src="/Pictures/Activities and intents 5.jpg"
-     alt="Hello toast App"
+     alt=""
      style="float: left; margin-right: 10px;" />
-
+Which is recieded and displayed on activity two 
 <img src="/Pictures/Activities and intents 6.jpg"
-     alt="Hello toast App"
+     alt=""
      style="float: left; margin-right: 10px;" />
-
+and a reply message was sent back to activity one from activity two.
+NB: the original message still remains in the edittext in activity one caue we didnt clear the edittext
 <img src="/Pictures/Activities and intents 7.jpg"
-     alt="Hello toast App"
+     alt=""
      style="float: left; margin-right: 10px;" />
 

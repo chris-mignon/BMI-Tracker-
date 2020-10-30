@@ -7,6 +7,6 @@ This file is used to submit the class prectices for this semester
 
 
 ## Week 2. Get started
-<img src="Helloworld app screenshot.jpg"
+<img src="\Pictures\Helloworld app screenshot.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />

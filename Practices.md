@@ -44,4 +44,28 @@ we learned how to use the event handler to complete an action when the button is
      style="float: left; margin-right: 10px;" />
 
 
-## Class Practice No.3 
+## Class Practice No.3 Activities and intents
+In this pratice we learned how to create an App with 2 activities and pass data from the first activity to the second activity 
+
+ <img src="/Pictures/Activities and intents 3.jpg"
+     alt="Hello toast App"
+     style="float: left; margin-right: 10px;" />
+
+     when the user clicks the send button in the first activity it will open the second activity with the text: "message recieved"  and the message displayed.
+
+<img src="/Pictures/Activities and intents 4.jpg"
+     alt="Hello toast App"
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/Activities and intents 5.jpg"
+     alt="Hello toast App"
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/Activities and intents 6.jpg"
+     alt="Hello toast App"
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/Activities and intents 7.jpg"
+     alt="Hello toast App"
+     style="float: left; margin-right: 10px;" />
+

@@ -100,3 +100,27 @@ so now when we click the "OPEN WEBSITE" button the system displays options to co
      style="float: left; margin-right: 10px;" />
 NB: becasue of locations the location was not able to be displayed 
 ie we are in china and google maps dont work
+
+## Class Practice No.5 User Interaction
+in this class practice we learned to create apps that incluced clicable images 
+
+the app name is Droid Cafe 
+NOTE: when an image is clicked a toast message is displayed based on the image clicked 
+<img src="/Pictures/clickable images 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/clickable images 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/clickable images 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+When the floating action Button is clicked 
+it oens a new activity which is a child activity of the main activity
+
+<img src="/Pictures/clickable images 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />

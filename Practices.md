@@ -98,3 +98,5 @@ so now when we click the "OPEN WEBSITE" button the system displays options to co
 <img src="/Pictures/Implicit intents 4.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+NB: becasue of locations the location was not able to be displayed 
+ie we are in china and google maps dont work

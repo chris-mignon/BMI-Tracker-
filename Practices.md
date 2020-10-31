@@ -110,17 +110,17 @@ NOTE: when an image is clicked a toast message is displayed based on the image c
      alt=""
      style="float: left; margin-right: 10px;" />
 
-<img src="/Pictures/clickable images 1.jpg"
+<img src="/Pictures/clickable images 2.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
 
-<img src="/Pictures/clickable images 1.jpg"
+<img src="/Pictures/clickable images 3.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
 
 When the floating action Button is clicked 
 it oens a new activity which is a child activity of the main activity
 
-<img src="/Pictures/clickable images 1.jpg"
+<img src="/Pictures/clickable images 4.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />

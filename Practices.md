@@ -101,7 +101,7 @@ so now when we click the "OPEN WEBSITE" button the system displays options to co
 NB: becasue of locations the location was not able to be displayed 
 ie we are in china and google maps dont work
 
-## Class Practice No.5 User Interaction
+## Class Practice No.5 User Interaction clicable Images 
 in this class practice we learned to create apps that incluced clicable images 
 
 the app name is Droid Cafe 
@@ -124,3 +124,7 @@ it oens a new activity which is a child activity of the main activity
 <img src="/Pictures/clickable images 4.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+
+## Class Practice No.6 User Interaction- Input controls
+## Class Practice No.7 User Interaction- User Navigation 
+## Class Practice No.8 User Interaction- Recycler View

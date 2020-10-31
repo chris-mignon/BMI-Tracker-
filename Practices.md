@@ -72,3 +72,27 @@ NB: the original message still remains in the edittext in activity one caue we d
      alt=""
      style="float: left; margin-right: 10px;" />
 
+## Class Practice No. Implicit Intents
+
+In this class practice we learned how to create apps that will advertise the types of intents and activities that they can handle
+
+the first app creates three intents 
+#1 to open a URL
+#2 to open a location
+#3 to send some text
+<img src="/Pictures/Implicit intents 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+when the user clicks the "SHARE THIS TEXT" Button the syspen gives them the options of apps that can carry out this activity 
+<img src="/Pictures/Implicit intents 2.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/Implicit intents 3.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/Implicit intents 4.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />

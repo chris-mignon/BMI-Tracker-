@@ -130,7 +130,10 @@ NB: becasue of locations the location was not able to be displayed
 ie we are in china and google maps dont work
 
 ## Class Practice No.5 User Interaction clicable Images 
-in this class practice we learned to create apps that incluced clicable images 
+> In this Class practive we learned the following:
+>- Create a new Android Studio project for a mock dessert-ordering app that uses images as interactive elements.
+>- Set onClick() handlers for the images to display different Toast messages.
+>- Change the floating action button supplied by the template so that it shows a different icon and launches another Activity.
 
 the app name is Droid Cafe 
 NOTE: when an image is clicked a toast message is displayed based on the image clicked 

@@ -37,8 +37,16 @@ Back
      style="float: left; margin-right: 10px;" />
 
 ## Class Practice No.2 Layouts and resources for the UI -- part B
- we learned how to create different layouts for different types of devices ie( phones and Tablets)
- we also learned how to create both protrait and landscape layouts 
+> In this Class practive we learned the following:
+>-Create a layout variant for a horizontal display orientation.
+>- Create a layout variant for tablets and larger displays.
+>- Modify the layout to add constraints to the UI elements.
+>- Use ConstraintLayout baseline constraints to align elements with text.
+>- Use ConstraintLayout pack and align buttons to align elements.
+>- Change the layout to use LinearLayout.
+>- Position elements in a LinearLayout.
+>- Change the layout to use RelativeLayout.
+>- Rearrange the views in the main layout to be relative to each othe
 
  <img src="/Pictures/Part B The layout editor 1.jpg"
      alt="Hello toast App"
@@ -58,7 +66,10 @@ Back
 
 
 ## Class Practice No.3 Activities and intents
-In this pratice we learned how to create an App with 2 activities and pass data from the first activity to the second activity 
+> In this pratice we learned the following: 
+>- Create a new Android app with a main Activity and a second Activity.
+>- Pass some data (a string) from the main Activity to the second using an Intent, and display that data in the second Activity.
+>- Send a second different bit of data back to the main Activity, also using an Intent.
 
  <img src="/Pictures/Activities and intents 3.jpg"
      alt=""
@@ -87,7 +98,11 @@ NB: the original message still remains in the edittext in activity one caue we d
 
 ## Class Practice No.4 Implicit Intents
 
-In this class practice we learned how to create apps that will advertise the types of intents and activities that they can handle
+> In this Class practive we learned the following:
+>- Create a new app to experiment with implicit Intent.
+>- Implement an implicit Intent that opens a web page, and another that opens a location on a map.
+>- Implement an action to share a snippet of text.
+>- Create a new app that can accept an implicit Intent for opening a web page.
 
 the first app creates three intents:
 #1 to open a URL

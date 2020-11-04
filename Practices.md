@@ -127,11 +127,11 @@ it oens a new activity which is a child activity of the main activity
 
 ## Class Practice No.6 User Interaction- Input controls
 >In this practice we learned the following:
-> -Show a keyboard for entering an email address.
-> -Show a numeric keypad for entering phone numbers.
-> -Allow multiple-line text entry with automatic sentence capitalization.
-> -Add radio buttons for selecting an option.
-> -Set an onClick handler for the radio buttons.
+>-Show a keyboard for entering an email address.
+>-Show a numeric keypad for entering phone numbers.
+>-Allow multiple-line text entry with automatic sentence capitalization.
+>-Add radio buttons for selecting an option.
+>-Set an onClick handler for the radio buttons.
 >- Add a spinner for the phone number field for selecting one value from a set of values.
 ## Class Practice No.7 User Interaction- User Navigation 
 ## Class Practice No.8 User Interaction- Recycler View

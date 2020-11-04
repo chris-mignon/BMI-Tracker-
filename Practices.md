@@ -126,7 +126,7 @@ it oens a new activity which is a child activity of the main activity
      style="float: left; margin-right: 10px;" />
 
 ## Class Practice No.6 User Interaction- Input controls
->In this practice we learned the following:
+In this practice we learned the following:
 >-Show a keyboard for entering an email address.
 >-Show a numeric keypad for entering phone numbers.
 >-Allow multiple-line text entry with automatic sentence capitalization.

@@ -3,7 +3,13 @@
 This file is used to submit the class practices for this semester 
 
 ## Class practice No.1 First Android App 
-This week we learned to use Android studio and created our first android App 
+>In this Class practive we learned the following:
+>-Install the Android Studio development environment.
+>-Create an emulator (virtual device) to run your app on your computer.
+>-Create and run the Hello World app on the virtual and physical devices.
+>-Explore the project layout.
+>-Generate and view log messages from your app.
+>-Explore the AndroidManifest.xml file.
 
 <img src="/Pictures/Helloworld app screenshot.jpg"
      alt="Hello world App"
@@ -12,8 +18,15 @@ This week we learned to use Android studio and created our first android App
 <
 
 ## Class Practice No.2 Layouts and resources for the UI
-This week we learned how to create an app and edit the layut and add different constrainst to the the different view elements
-we learned how to use the event handler to complete an action when the button is clicked 
+>In this Class practive we learned the following:
+>-Create an app and add two Button elements and a TextView to the layout.
+>-Manipulate each element in the ConstraintLayout to constrain them to the margins and other elements.
+>-Change UI element attributes.
+>-Edit the app's layout in XML.
+>-Extract hardcoded strings into string resources.
+>-Implement click-handler methods to display messages on the screen when the user taps each Button.
+Back
+
 
 <img src="/Pictures/Hello toast screenshot 1.jpg"
      alt="Hello toast App"

@@ -133,5 +133,9 @@ In this practice we learned the following:
 >- Add radio buttons for selecting an option.
 >- Set an onClick handler for the radio buttons.
 >- Add a spinner for the phone number field for selecting one value from a set of values.
+
+<img src="/Pictures/Input controls 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
 ## Class Practice No.7 User Interaction- User Navigation 
 ## Class Practice No.8 User Interaction- Recycler View

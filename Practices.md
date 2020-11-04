@@ -168,5 +168,9 @@ In this practice we learned the following:
 <img src="/Pictures/Input controls 1.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+we then added a radio button group to the app to display more options to the user
+<img src="/Pictures/Input controls 2.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
 ## Class Practice No.7 User Interaction- User Navigation 
 ## Class Practice No.8 User Interaction- Recycler View

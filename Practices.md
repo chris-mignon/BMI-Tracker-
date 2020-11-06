@@ -176,9 +176,15 @@ we then added a radio button group to the app to display more options to the use
 <img src="/Pictures/Input controls 3.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
-A spinner was added to allow the user to display they type od phone number 
+A spinner was added to allow the user to display they type of phone number 
 <img src="/Pictures/Input controls 4.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+
 ## Class Practice No.7 User Interaction- User Navigation 
+
+In this practice we learned the following:
+>- How to add the Up button to the app bar.
+>- How to set up an app with tab navigation and swipe views.
+>- Create a new app with tabs for navigating Activity screens that can also be swiped.
 ## Class Practice No.8 User Interaction- Recycler View

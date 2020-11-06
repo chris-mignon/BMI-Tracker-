@@ -129,7 +129,7 @@ so now when we click the "OPEN WEBSITE" button the system displays options to co
 NB: becasue of locations the location was not able to be displayed 
 ie we are in china and google maps dont work
 
-## Class Practice No.5 User Interaction clicable Images 
+## Class Practice No.5 User Interaction clickable Images 
 > In this Class practive we learned the following:
 >- Create a new Android Studio project for a mock dessert-ordering app that uses images as interactive elements.
 >- Set onClick() handlers for the images to display different Toast messages.

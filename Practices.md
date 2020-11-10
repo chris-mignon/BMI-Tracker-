@@ -195,3 +195,6 @@ The up button was added to navigate back to the parent activity
 In this practice we learned the following:
 >- Create a new app that uses a RecyclerView to display a list of items as a scrollable list and associate click behavior with the list items.
 >- Use a FAB to let the user add items to the RecyclerView.
+<img src="/Pictures/RecyclerView.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />

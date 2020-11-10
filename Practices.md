@@ -213,3 +213,10 @@ In this practice we learned the following:
 <img src="/Pictures/RecyclerView.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+
+## Class Practice No.9 Cards and colors
+In this practice we learned the following:
+>- Modify an app to follow Material Design guidelines.
+>- Add images and styling to a RecyclerView list.
+>- Implement an ItemTouchHelper to add drag-and-drop functionality to your app.
+Back

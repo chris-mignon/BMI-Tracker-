@@ -191,6 +191,21 @@ The up button was added to navigate back to the parent activity
 <img src="/Pictures/User navigation 1.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+
+
+We also created an App with three different tabs using 
+<img src="/Pictures/tab experiment 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+ <img src="/Pictures/tab experiment 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/tab experiment 3.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
 ## Class Practice No.8 User Interaction- Recycler View
 In this practice we learned the following:
 >- Create a new app that uses a RecyclerView to display a list of items as a scrollable list and associate click behavior with the list items.

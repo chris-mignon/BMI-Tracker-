@@ -225,6 +225,11 @@ Back
      style="float: left; margin-right: 10px;" />
 
 the result after we added the images to the app
+
 <img src="/Pictures/cards and colors 2.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+A floating action button was added to the app to reset the swiped cards 
+<img src="/Pictures/cards and colors 3.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />

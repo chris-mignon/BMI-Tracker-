@@ -158,6 +158,10 @@ it oens a new activity which is a child activity of the main activity
 
 ## Class Practice No.6 User Interaction- Input controls
 In this practice we learned the following:
+>- How to change the input methods to enable suggestions, auto-capitalization, and password obfuscation.
+>- How to change the generic on-screen keyboard to a phone keypad or other specialized keyboards.
+>- How to add radio buttons for the user to select one item from a set of items.
+>- How to add a spinner to show a drop-down menu with values, from which the user can select one.
 >- Show a keyboard for entering an email address.
 >- Show a numeric keypad for entering phone numbers.
 >- Allow multiple-line text entry with automatic sentence capitalization.
@@ -185,7 +189,7 @@ A spinner was added to allow the user to display they type of phone number
 
 In this practice we learned the following:
 >- How to add the Up button to the app bar.
->- How to set up an app with tab navigation and swipe views.
+>- Provide the Up button in the app bar to navigate up to the parent Activity.
 >- Create a new app with tabs for navigating Activity screens that can also be swiped.
 The up button was added to navigate back to the parent activity
 <img src="/Pictures/User navigation 1.jpg"
@@ -208,6 +212,10 @@ We also created an App with three different tabs using
 
 ## Class Practice No.8 User Interaction- Recycler View
 In this practice we learned the following:
+>- How to use the RecyclerView class to display items in a scrollable list.
+>- How to dynamically add items to the RecyclerView as they become visible through scrolling.
+>- How to perform an action when the user taps a specific item.
+>- How to show a FAB and perform an action when the user taps it.
 >- Create a new app that uses a RecyclerView to display a list of items as a scrollable list and associate click behavior with the list items.
 >- Use a FAB to let the user add items to the RecyclerView.
 <img src="/Pictures/RecyclerView.jpg"
@@ -221,7 +229,7 @@ In this practice we learned the following:
 >- Recommended best practices for designing intuitive layouts using bold colors.
 >- Modify an app to follow Material Design guidelines.
 >- Add images and styling to a RecyclerView list.
->- Implement an ItemTouchHelper to add drag-and-drop functionality to your app.
+>- Implement an ItemTouchHelper to add drag-and-drop functionality to an app.
 Back
 <img src="/Pictures/cards and colors 1.jpg"
      alt=""
@@ -245,3 +253,6 @@ A floating action button was added to the app to reset the swiped cards
 >- How to parse the JSON results from your API query.
 >- How to implement an AsyncTaskLoader that preserves data on configuration changes.
 >- How to update your UI using the loader callbacks
+>- Use the Google APIs Explorer to learn about the Books API.
+>- Create the "Who Wrote It?" app, which queries the Books API using a worker thread and displays the result in the UI.
+>- Modify the "Who Wrote it?" app to use an AsyncTaskLoader instead of an AsyncTask.

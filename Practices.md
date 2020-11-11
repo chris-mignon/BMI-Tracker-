@@ -216,6 +216,9 @@ In this practice we learned the following:
 
 ## Class Practice No.9 Cards and colors
 In this practice we learned the following:
+>- Recommended use of Material Design widgets such as FloatingActionButton and CardView.
+>- How to efficiently use images in your app.
+>- Recommended best practices for designing intuitive layouts using bold colors.
 >- Modify an app to follow Material Design guidelines.
 >- Add images and styling to a RecyclerView list.
 >- Implement an ItemTouchHelper to add drag-and-drop functionality to your app.
@@ -232,4 +235,13 @@ the result after we added the images to the app
 A floating action button was added to the app to reset the swiped cards 
 <img src="/Pictures/cards and colors 3.jpg"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" />  
+
+
+## Class Practice No.10 Background Tasks
+>- In this practice we learned the following:
+>- How to use the Google APIs Explorer to investigate Google APIs and to view JSON responses to HTTP requests.
+>- How to use the Google Books API to retrieve data over the internet and keep the UI fast and responsive. 
+>- How to parse the JSON results from your API query.
+>- How to implement an AsyncTaskLoader that preserves data on configuration changes.
+>- How to update your UI using the loader callbacks

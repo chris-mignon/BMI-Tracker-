@@ -220,3 +220,6 @@ In this practice we learned the following:
 >- Add images and styling to a RecyclerView list.
 >- Implement an ItemTouchHelper to add drag-and-drop functionality to your app.
 Back
+<img src="/Pictures/cards and colors 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />

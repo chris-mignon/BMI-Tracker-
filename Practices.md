@@ -223,3 +223,8 @@ Back
 <img src="/Pictures/cards and colors 1.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+
+the result after we added the images to the app
+<img src="/Pictures/cards and colors 2.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />

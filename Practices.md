@@ -256,3 +256,7 @@ A floating action button was added to the app to reset the swiped cards
 >- Use the Google APIs Explorer to learn about the Books API.
 >- Create the "Who Wrote It?" app, which queries the Books API using a worker thread and displays the result in the UI.
 >- Modify the "Who Wrote it?" app to use an AsyncTaskLoader instead of an AsyncTask.
+
+<img src="/Pictures/who wrote it.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />

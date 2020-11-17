@@ -268,3 +268,7 @@ A floating action button was added to the app to reset the swiped cards
 >- How to update or cancel existing notifications.
 >- Create an app that sends a notification when the user taps a button in the app.
 >- Update the notification from a button in your app, and from an action button that's inside the notification.
+
+<img src="/Pictures/notify 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />

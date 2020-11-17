@@ -273,10 +273,13 @@ A floating action button was added to the app to reset the swiped cards
      alt=""
      style="float: left; margin-right: 10px;" />
 
+this is when the notification is updated 
+
  <img src="/Pictures/notify 2.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
 
+this is when the notification is canceled: note the the cancel and update buttons are both disabled.
 <img src="/Pictures/notify 3.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />

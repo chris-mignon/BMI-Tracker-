@@ -272,3 +272,11 @@ A floating action button was added to the app to reset the swiped cards
 <img src="/Pictures/notify 1.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+
+ <img src="/Pictures/notify 2.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/notify 3.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />

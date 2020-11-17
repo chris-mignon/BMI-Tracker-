@@ -260,3 +260,11 @@ A floating action button was added to the app to reset the swiped cards
 <img src="/Pictures/Who wrote it.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+
+## Class Practice No.11 Notifications
+>- In this practice we learned the following:
+>- How to create a notification using the notification builder.
+>- How to use pending intents to respond to notification actions.
+>- How to update or cancel existing notifications.
+>- Create an app that sends a notification when the user taps a button in the app.
+>- Update the notification from a button in your app, and from an action button that's inside the notification.

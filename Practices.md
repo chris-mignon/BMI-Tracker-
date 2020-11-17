@@ -284,6 +284,6 @@ this is when the notification is canceled: note the the cancel and update button
      alt=""
      style="float: left; margin-right: 10px;" />
 An update action was added to the notification
-<img src="/Pictures/notify 3.jpg"
+<img src="/Pictures/notify 4.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />

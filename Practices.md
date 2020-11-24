@@ -296,11 +296,14 @@ An update action was added to the notification
 >- How to clear the data in the shared preferences.
 >- Update an app so it can save, retrieve, and reset shared preferences.
 this is the starter app
-after the app is closes the preferences are reset to the default state
+
+after the app is closes the preferences are reset to the default state.
+
 <img src="/Pictures/Shared preferences 1.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
-     after adding the shared preferences the state of the app is stved after quiting and reopening the app as shown below.
+
+after adding the shared preferences the state of the app is stved after quiting and reopening the app as shown below.
      <img src="/Pictures/Shared preferences 2.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />

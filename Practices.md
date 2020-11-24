@@ -307,4 +307,4 @@ after adding the shared preferences the state of the app is saved after quiting 
      <img src="/Pictures/Shared preferences 2.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
-     h
+     

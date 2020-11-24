@@ -287,3 +287,11 @@ An update action was added to the notification
 <img src="/Pictures/notify 4.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+
+## Class Practice No.12 Shared preferences
+>- In this practice we learned the following:
+>- How to identify what shared preferences are.
+>- How to create a shared preferences file for your app.
+>- How to save data to shared preferences, and read those preferences back again.
+>- How to clear the data in the shared preferences.
+>- Update an app so it can save, retrieve, and reset shared preferences.

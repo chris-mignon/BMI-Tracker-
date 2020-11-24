@@ -303,7 +303,7 @@ after the app is closes the preferences are reset to the default state.
      alt=""
      style="float: left; margin-right: 10px;" />
 
-after adding the shared preferences the state of the app is stved after quiting and reopening the app as shown below.
+after adding the shared preferences the state of the app is saved after quiting and reopening the app as shown below.
      <img src="/Pictures/Shared preferences 2.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />

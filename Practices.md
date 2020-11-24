@@ -304,3 +304,4 @@ after the app is closes the preferences are reset to the default state
      <img src="/Pictures/Shared preferences 2.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+     h

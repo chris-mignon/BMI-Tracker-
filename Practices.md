@@ -334,14 +334,17 @@ after adding the shared preferences the state of the app is saved after quiting 
 >- Use a ViewModel to separate all data operations from the UI.
 >-Add a second Activity that allows the user to add new words.
 
+the app running with preset words in the database
  <img src="/Pictures/Roomwordsample 1.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
 
+Adding a new word to the database 
 <img src="/Pictures/Roomwordsample 2.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
 
+the new word saved to the databse 
 <img src="/Pictures/Roomwordsample 3.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />

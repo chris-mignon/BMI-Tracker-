@@ -333,3 +333,15 @@ after adding the shared preferences the state of the app is saved after quiting 
 >- Abstract the data backend as a Repository class with an API that is agnostic to how the data is stored or acquired.
 >- Use a ViewModel to separate all data operations from the UI.
 >-Add a second Activity that allows the user to add new words.
+
+ <img src="/Pictures/Roomwordsample 1.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/Roomwordsample 2.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
+<img src="/Pictures/Roomwordsample 3.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />

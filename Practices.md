@@ -308,18 +308,7 @@ after adding the shared preferences the state of the app is saved after quiting 
      alt=""
      style="float: left; margin-right: 10px;" />
 
-## Class Practice No.13 App settings  
->- In this practice we learned the following:
->- How to add a Fragment for managing settings.
->- How to create an XML resource file of settings with their attributes.
->- How to create navigation to the settings Activity.
->- How to set the default values of settings.
->- How to read the settings values changed by the user.
->- How to customize the Settings Activity template.
->- Create an app that includes Settings in the options menu.
->- Add a Settings option toggle switch.
->- Add code to set the default value for the setting, and access the setting value after it has changed.
->- Use and customize the Android Studio Settings Activity template.
+
 
 
 ## Part A:Room, LiveData, and ViewModel

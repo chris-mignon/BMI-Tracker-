@@ -1,4 +1,4 @@
-# Hello-world
+# BMI Tracker
 **Simple repository for class project**
 
         # BIO

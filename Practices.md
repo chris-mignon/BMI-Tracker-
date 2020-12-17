@@ -337,3 +337,30 @@ the new word saved to the databse
 <img src="/Pictures/Roomwordsample 3.jpg"
      alt=""
      style="float: left; margin-right: 10px;" />
+
+## Part B:Deleting data from a Room database
+>- In this practice we learned the following:
+>- How to populate the database with data only if the database is empty (so users don't lose changes they made to the data).
+>- How to delete data from a Room database.
+>- How to update existing data (if you build the challenge app).
+>- Update the RoomWordsSample app to keep data when the app closes.
+>- Allow users to delete all words by selecting an Options menu item.
+>- Allow users to delete a specific word by swiping an item in the list.
+>- Optionally, in a coding challenge, extend the app to allow the user to update existing words.
+
+the database with a list of names 
+<img src="/Pictures/Roomwordsample 4.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+Swipe to delete the name William Henry
+<img src="/Pictures/Roomwordsample 5.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+Displaying the clear all data menu item
+<img src="/Pictures/Roomwordsample 6.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+Clearing all the data in the database 
+<img src="/Pictures/Roomwordsample 7.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
